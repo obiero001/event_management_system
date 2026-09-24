@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Campus Event Portal</title>
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary sticky-top shadow">
+  <div class="container">
+    <img src="img/logo.png" alt="logo" width="50px">
+    <a class="navbar-brand fw-bold" href="index.php">Campus Events</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item"><a class="nav-link" href="index.php">Events</a></li>
+        <li class="nav-item"><a class="nav-link" href="register.php">Register</a></li>
+        <li class="nav-item"><a class="nav-link btn btn-outline-light ms-lg-2 px-3" href="admin.php">Admin Records</a></li>
+      </ul>
+      <button class="btn btn-sm btn-dark ms-3" id="themeToggle">🌓 Mode</button>
+    </div>
+  </div>
+</nav>
+<div class="container my-4">
