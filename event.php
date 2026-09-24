@@ -46,7 +46,7 @@ $events = [
     <div class="col-lg-5">
         <div class="input-group shadow-sm">
             <span class="input-group-text bg-white border-end-0">🔍</span>
-            <input type="text" id="eventSearch" class="form-control form-control-lg border-start-0 shadow-none" placeholder="Search events by title or category...">
+            <input type="text" id="eventSearch" class="form-control form-control-lg border-start-0 shadow-none" placeholder="Search...">
         </div>
     </div>
 </div>
