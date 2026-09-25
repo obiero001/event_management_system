@@ -47,6 +47,7 @@ $preselected_event = isset($_GET['event']) ? htmlspecialchars($_GET['event']) : 
         <option value="Data Science">B.Sc. Data Science & Analytics</option>
         <option value="Cyber Security">B.Sc. Cyber Security</option>
         <option value="Graphic Design">B.A. Graphic & Digital Design</option>
+          <option value="Mass Communication">Bmmc. Mass comm</option>
         <option value="Electrical Engineering">B.Sc. Electrical Engineering</option>
         <option value="Other">Other / Unlisted Course</option>
     </select>
