@@ -2,7 +2,7 @@
 require_once 'connect_db.php';
 include 'header.php';
 
-// Retrieve all records from the database ordered by latest registration
+// Retrieve all records from the database ordered by latest registration.
 try {
     $stmt = $pdo->query("SELECT * FROM registrations ORDER BY registration_date DESC");
     $registrations = $stmt->fetchAll();
