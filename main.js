@@ -1,6 +1,6 @@
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMCogntentLoaded', () => {
 
-    // 1. Dark/Light Mode Toggle
+    // 1. Dark/Light Mode button
     const themeBtn = document.getElementById('themeToggle');
     if (themeBtn) {
         themeBtn.addEventListener('click', () => {
