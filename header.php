@@ -22,7 +22,7 @@
         <li class="nav-item"><a class="nav-link" href="register.php">Register</a></li>
         <li class="nav-item"><a class="nav-link btn btn-outline-light ms-lg-2 px-3" href="admin.php">Admin Records</a></li>
       </ul>
-      <button class="btn btn-sm btn-dark ms-3" id="themeToggle">🌓 Mode</button>
+      <button class="btn btn-sm btn-dark ms-3" id="themeToggle">🌓</button>
     </div>
   </div>
 </nav>
