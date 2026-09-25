@@ -1,4 +1,4 @@
-// Filter/Search Table Rows in Admin Page
+// Search Table Rows in Admin Page
 document.addEventListener('DOMContentLoaded', () => {
     const searchInput = document.getElementById('adminSearchInput');
     const tableRows = document.querySelectorAll('#recordsTable tbody tr');
