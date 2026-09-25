@@ -16,7 +16,7 @@
         <div class="card h-100 shadow-sm">
             <div class="card-body">
                 <span class="badge bg-primary mb-2">Tech</span>
-                <h5 class="card-title">Annual Tech Hackathon</h5>
+                <h5 class="card-title">Annual sports</h5>
                 <p class="card-text text-muted">A 24-hour coding challenge for developers, designers, and innovators.</p>
                 <div class="alert alert-info py-2 small">
                     ⏳ Starts in: <span class="countdown" data-date="2026-11-15T09:00:00">Loading...</span>
@@ -50,7 +50,7 @@
         <div class="card h-100 shadow-sm">
             <div class="card-body">
                 <span class="badge bg-warning text-dark mb-2">Culture</span>
-                <h5 class="card-title">Cultural Night Gala</h5>
+                <h5 class="card-title">Cultural Night </h5>
                 <p class="card-text text-muted">An evening celebrating diversity with music, dance, and food performances.</p>
                 <div class="alert alert-info py-2 small">
                     ⏳ Starts in: <span class="countdown" data-date="2026-10-20T18:00:00">Loading...</span>
