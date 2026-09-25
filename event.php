@@ -40,7 +40,7 @@ $events = [
 <!-- Event Search & Header -->
 <div id="eventsSection" class="row mb-4 align-items-center pt-2">
     <div class="col-lg-7 mb-3 mb-lg-0">
-        <h2 class="fw-bold text-dark">Upcoming Campus Events</h2>
+        <h2 class="fw-bold text-dark">Upcoming College Events</h2>
         <p class="text-muted mb-0">Select an event below to secure your spot online.</p>
     </div>
     <div class="col-lg-5">
