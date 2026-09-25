@@ -1,4 +1,5 @@
 <?php
+// db connection
 $host     = 'localhost';
 $db       = 'event_db';
 $user     = 'root';
